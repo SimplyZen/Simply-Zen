@@ -1,0 +1,17 @@
+{
+	strings:
+	{
+	"DIFFICULTY_BAR_0": "Journalist",
+	"DIFFICULTY_BAR_1": "IGN",
+	"DIFFICULTY_BAR_2": "Basic bitch",
+	"DIFFICULTY_BAR_3": "Erect",
+	"DIFFICULTY_BAR_4": "Very Erect",
+	"DIFFICULTY_BAR_5": "Batshit",
+	"DIFFICULTY_BAR_6": "He is coming",
+	"DIFFICULTY_BAR_7": "I WATCH YOU PEE",
+	"DIFFICULTY_BAR_8": "SURRENDER YOUR FORESKIN",
+	"DIFFICULTY_BAR_9": "CHOP CHOP BITCH",
+	"STAGE_COUNT_FORMAT" : "<style=cSub>Stage</style> {0}",
+	"AMBIENT_LEVEL_DISPLAY_FORMAT" : "<style=cSub>Lv.</style> {0}",
+	}
+}
